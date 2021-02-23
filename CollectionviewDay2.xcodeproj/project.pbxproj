@@ -13,6 +13,7 @@
 		EB295C9C25E4AB40000E692B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB295C9A25E4AB40000E692B /* Main.storyboard */; };
 		EB295C9E25E4AB42000E692B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB295C9D25E4AB42000E692B /* Assets.xcassets */; };
 		EB295CA125E4AB42000E692B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB295C9F25E4AB42000E692B /* LaunchScreen.storyboard */; };
+		EB295CAA25E4AEAC000E692B /* MovieCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB295CA925E4AEAC000E692B /* MovieCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EB295C9D25E4AB42000E692B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EB295CA025E4AB42000E692B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EB295CA225E4AB42000E692B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EB295CA925E4AEAC000E692B /* MovieCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				EB295C9625E4AB40000E692B /* SceneDelegate.swift */,
 				EB295C9825E4AB40000E692B /* ViewController.swift */,
 				EB295C9A25E4AB40000E692B /* Main.storyboard */,
+				EB295CA925E4AEAC000E692B /* MovieCollectionViewCell.swift */,
 				EB295C9D25E4AB42000E692B /* Assets.xcassets */,
 				EB295C9F25E4AB42000E692B /* LaunchScreen.storyboard */,
 				EB295CA225E4AB42000E692B /* Info.plist */,
@@ -140,6 +143,7 @@
 				EB295C9925E4AB40000E692B /* ViewController.swift in Sources */,
 				EB295C9525E4AB40000E692B /* AppDelegate.swift in Sources */,
 				EB295C9725E4AB40000E692B /* SceneDelegate.swift in Sources */,
+				EB295CAA25E4AEAC000E692B /* MovieCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
